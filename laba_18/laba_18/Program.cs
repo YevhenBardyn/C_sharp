@@ -7,10 +7,19 @@ namespace laba_18
     {
         static void Create(List<int> a, int n)
         {
+            int counter = 0;
             Random r = new Random();
             for (int i = 0; i < n; i++)
             {
                 a.Add(r.Next(-100, 100));
+                if(a[i] % 2 == 0)
+                {
+                    counter++;
+                }
+                if(counter == n)
+                {
+                    Console.WriteLine("Error! Всi елементи парнi");
+                }
             }
 
         }

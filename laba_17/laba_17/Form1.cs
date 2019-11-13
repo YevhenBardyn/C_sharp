@@ -12,7 +12,7 @@ namespace laba_17
 {
     public partial class Form1 : Form
     {
-        Button b; // поле - посилання на кнопку
+        Button b; 
         Label p;
         public Form1()
         {
@@ -24,23 +24,20 @@ namespace laba_17
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            b = new Button(); // створили кнопку
-            b.Parent = this; // кнопка буде розміщена безпосередньо на формі
-                             // (форма - батьківський елемент для кнопки, і відповідає за
-                             // візуалізацію кнопки)
-            b.Width = 150; // розміри кнопки - ширина
-            b.Height = 50; // - висота
-            b.Left = 75; // позиція кнопки - х
-            b.Top = 50; // - y
-            b.Text = "Button";// напис на кнопці
+            b = new Button(); 
+            b.Parent = this; 
+                             
+            b.Width = 150; 
+            b.Height = 50; 
+            b.Left = 75; 
+            b.Top = 50; 
+            b.Text = "Button";
             
-            p = new Label(); // створили панель
-            p.Parent = this; // панель буде розміщена безпосередньо на формі
-                             // (форма - батьківський елемент для панелі, і відповідає за
-                             // візуалізацію панелі)
-            p.Width = 150; // розміри панелі - ширина
-            p.Height = 50; // - висота
-            p.Left = 75; // позиція панелі - х
+            p = new Label(); 
+            p.Parent = this; 
+            p.Width = 150; 
+            p.Height = 50; 
+            p.Left = 75; 
             p.Top = 150;
             p.Text = "LABEL";
             p.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
