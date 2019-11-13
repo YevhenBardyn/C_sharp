@@ -1,0 +1,7 @@
+D:\C#\laba_18\laba_18\bin\Debug\laba_18.exe.config
+D:\C#\laba_18\laba_18\bin\Debug\laba_18.exe
+D:\C#\laba_18\laba_18\bin\Debug\laba_18.pdb
+D:\C#\laba_18\laba_18\obj\Debug\laba_18.csprojAssemblyReference.cache
+D:\C#\laba_18\laba_18\obj\Debug\laba_18.csproj.CoreCompileInputs.cache
+D:\C#\laba_18\laba_18\obj\Debug\laba_18.exe
+D:\C#\laba_18\laba_18\obj\Debug\laba_18.pdb

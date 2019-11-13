@@ -1,0 +1,6 @@
+D:\C#\laba_17b\laba_17b\bin\Debug\laba_17b.exe.config
+D:\C#\laba_17b\laba_17b\bin\Debug\laba_17b.exe
+D:\C#\laba_17b\laba_17b\bin\Debug\laba_17b.pdb
+D:\C#\laba_17b\laba_17b\obj\Debug\laba_17b.csproj.CoreCompileInputs.cache
+D:\C#\laba_17b\laba_17b\obj\Debug\laba_17b.exe
+D:\C#\laba_17b\laba_17b\obj\Debug\laba_17b.pdb

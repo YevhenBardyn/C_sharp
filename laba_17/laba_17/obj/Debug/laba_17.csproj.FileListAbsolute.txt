@@ -1,0 +1,10 @@
+D:\C#\laba_17\laba_17\obj\Debug\laba_17.csprojAssemblyReference.cache
+D:\C#\laba_17\laba_17\obj\Debug\laba_17.Properties.Resources.resources
+D:\C#\laba_17\laba_17\obj\Debug\laba_17.csproj.GenerateResource.cache
+D:\C#\laba_17\laba_17\obj\Debug\laba_17.csproj.CoreCompileInputs.cache
+D:\C#\laba_17\laba_17\bin\Debug\laba_17.exe.config
+D:\C#\laba_17\laba_17\bin\Debug\laba_17.exe
+D:\C#\laba_17\laba_17\bin\Debug\laba_17.pdb
+D:\C#\laba_17\laba_17\obj\Debug\laba_17.exe
+D:\C#\laba_17\laba_17\obj\Debug\laba_17.pdb
+D:\C#\laba_17\laba_17\obj\Debug\laba_17.Form1.resources
